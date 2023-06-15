@@ -1,0 +1,41 @@
+header{
+    border:3px solid black;
+    height: 40px;
+    background-color: aqua;
+    padding: 50px;
+}
+header>a{
+    color:red;
+    padding-left: 10px;
+    margin : 0px 20px;
+    text-decoration: none;
+}
+section{
+    border:3px solid black;
+    height: 400px;
+    width: 700px;
+    margin:auto;
+    background-color: lightgreen;
+    text-align: center; 
+}
+section>h1{
+    border:2px solid black;
+    height: 50px;
+    padding: 20px;
+    font-size:x-large;
+}
+footer{
+    border:3px solid black;
+    width: 700px;
+    margin:auto;
+    background-color: rgb(238, 144, 180);
+    padding:40px;
+    text-align: center;
+
+}
+footer>a{
+    padding: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin:auto;
+}
